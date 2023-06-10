@@ -1,6 +1,6 @@
 ## Hi there, I'm Sven 👋
 
-## I study CS and UX Design at Hochschule München
+## I study CS and UX/UI Design at Hochschule München
 - 💻 I'm currently learning different languages...
 - 🤝 I'm looking forward to learn from others
 - 🏁 My goal for this year is to gather enough knowledge to be able to contribute to Open Source projects!
