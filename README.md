@@ -4,9 +4,7 @@ Software Engineer focused on human-machine interfaces, modern UI systems and des
 
 Currently exploring:
 - Android Automotive
-- Qt / QML
 - Automotive HMI / IVI concepts
-- Linux & system-level development
 
 ---
 
@@ -28,24 +26,20 @@ My long-term interests lie in human-machine interfaces, automotive software and 
 
 ## Current Focus
 
+- Working as a software developer @ Exaring AG
 - Finishing my bachelor's in Computer Science & Design in Munich
 - Planning to start my Master's in Computer Science, focussing on HMI/IVI
-- Working as a software developer @ Exaring AG
 - Building interactive UI concepts and automotive HMI projects
-- Learning modern C++ and Qt/QML, as well as Android Automotive
 
 ---
 
 ## Technologies
 
 ### Languages
-C++ • C# • Java • Kotlin • TypeScript • Python
+Kotlin • Java • Typescript • C++ • C# • Python • Swift
 
 ### UI / Frontend
-Android / Jetpack Compose • Qt / QML • React / Next.js • React native / Expo
-
-### Systems / Tools
-Linux • Git • CMake • Docker • Vagrant
+Android / Jetpack Compose • SwiftUI • React / Next.js • React native / Expo
 
 ---
 
@@ -58,10 +52,3 @@ I enjoy building software at the intersection of:
 - and design
 
 I'm especially interested in interfaces that feel intuitive, responsive and technically well-crafted.
-
----
-
-## Environment
-
-- work: M1 Max MacBook Pro 64GB mem (macOS Tahoe)
-- private: ThinkPad E16 G3 i5 8GB mem (Arch Linux, wanna try NixOS)
