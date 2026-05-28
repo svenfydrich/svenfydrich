@@ -18,7 +18,7 @@ I'm highly interested in human-machine interfaces, automotive software and next-
 Android / Jetpack Compose / Android Mobile / AndroidTV / AAOS
 
 ### Web Development
-####Frontend
+#### Frontend
 React / NextJS / Tailwind / TanStack / 
 
 #### Backend
